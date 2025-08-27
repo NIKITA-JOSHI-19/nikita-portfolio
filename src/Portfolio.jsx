@@ -21,7 +21,7 @@ const LINKS = {
   linkedin: "https://www.linkedin.com/in/nikita-joshi-291316296",
   github: "https://github.com/NIKITA-JOSHI-19",
   email: "mailto:nikitajoshi19092005@gmail.com",
-  resume: "/Nikita_Joshi_Resume.pdf",
+  resume: "/NikitaResume.pdf",
 };
 
 const PROFILE = {
